@@ -1,0 +1,6 @@
+{
+  "name": "FITNESS POINT - Premium Gym & Fitness Center",
+  "description": "Official website for Fitness Point gym. Premium strength training, personal coaching, Olympic lifting, and modern fitness facilities. Call 93008 49000 or WhatsApp to join.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
